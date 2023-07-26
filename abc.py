@@ -1,2 +1,2 @@
 print("Hello World")
-print("I am leaning Git")
+print("I am leaning Github")
